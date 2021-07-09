@@ -1,0 +1,83 @@
+FRIENDBOOK
+1)	404.html - This page is displayed when there is an error or when the requested page isn’t found.
+2)	about-us.html - This page displays all the information about our app/website like the registration process, statistics based on our users, team members, latest posts and few testimonials.
+3)	birthday.html - This page displays all the details about the birthdays on the present date and the upcoming birthdays of our friends.
+4)	blog.html - This page displays all the blogs of the website, mainly the latest ones and most read ones.
+5)	blog-details.html - This page displays all the information related to the selected blog.
+(from the given folder, this is an incomplete or an error page.)
+6)	career.html - This page displays the list of various jobs provided with several perks and benefits where we could find our interested job in an easier way by using a search option where we need to mention the job name, the location where we are willing to work and fields.It also consists of a container which specifies all the recent openings of the jobs.
+7)	career-details.html - This page displays the details of selected jobs with a form to apply if interested with our details such as name, email id, work experiences and resume.
+8)	coming-soon.html - This page displays a timer section used to let us know the further updates through email.
+9)	company-about.html - This page displays all the information related to the company like the establishment, journey, testimonials and user stats etc.
+(from the given folder, this is an incomplete or an error page.)
+10)	company-home.html - This displays the homepage of the website which lists about the features of app/website and how it helps us and past client stories with register / login button and exploring of app/website through other links.
+11)	button.html - This page specifies various themes for buttons, tags, sizes, bootstrap colors for buttons, outlines, buttons as groups and blocks.
+12)	event-calender.html - This page displays a calendar specifying the upcoming events and past details of events and can add our remainders too.
+13)	element-map.html - This page specifies the locations of events using google maps or google maps Iframe.
+14)	element-modal.html - This page specifies or provides templates of the following pages: story template, post template, gallery/previous post template, video view template, edit profile template and the template when you’re about to upload a photo of your choice from your respective device or folders.
+15)	event.html - This page tells us the information regarding the events where it specifies the latest events, the calendar showing the events in the respective months with their days marked with event name, details of upcoming events and categories of events.
+16)	faq.html - A page where the user could post/ask a question to reach us regarding his doubts and clarify them or could clarify them by going through the previously asked questions.
+
+17)	favourite-page.html - This page displays all the details about our favourite page.
+(from the given folder, this is an incomplete or an error page.)
+18)	games.html - A page which displays all the games available in the website, the games you’re friends play frequently, categories of games, the top played games or favourite games based on user stats, the live and upcoming tournaments.
+19)	help-article.html - A page which helps you in reaching out to get any help from us or regarding the website.
+20)	help-support.html - A page where you could learn how to establish your profile or how to improve your profile on this website and still if you’re not clear you’re provided with a contact form to reach us.
+21)	icons.html - A page which lists various icons with their names such as feather icons, theme icons, weather icons and emojis.
+22)	index.html - The respective page is displayed when you login to the website with your credentials which specifies or shows all the posts, events, stories, liked pages, games, friends list, notifications and chats etc.
+The following are the index pages of various formats with different page layouts where the differences are listed on comparison to the other:
+a)	index.html - This page is displayed with sidebar as icons, header section, the below container with stories, where the below container consists of posts to the middle(medium size) with other page references to the left and right of the post i.e about birthdays, events, profile, friend suggestions, liked pages etc. and chat bar to the right end.
+b)	index-2.html - This page varies from the index page in header and sidebar section colours.
+c)	index-3.html - This page varies such that it has a sidebar with column names and the rest other than posts(large size) to the right end.
+d)	index-4.html - This page varies in such a way that it eliminates the chat bar and has posts(large size) to the middle section whereas other page references to the left and right of the posts.
+e)	index-5.html - This page varies in such a way it has sidebar with icons rather than column names and posts are smaller in size when compared to the other.
+f)	index-6.html - The previous page sidebar icons are placed at the middle of the header where the chat bar to the right end of the page is eliminated.
+g)	index-7.html - This page varies from the previous page in such a way that the top container of the page is replaced with stories and the rest is the same.
+h)	index-8.html - This page varies from the previous page in such a way that there are no sidebar icons and the header section is updated with search option to find friends and with post and other two columns of page references are placed in an order from left end to right end.
+i)	index-9.html - The changes compared to the previous pages are the header section is updated with two icons as home and inviting friends, with profile view and sidebar to the left and stories at the top container and posts in the middle and with chat bar to the right end.
+j)	index-10.html - This page varies from the previous page in such a way that the sidebar is contained as a separate section with specific background and profile view, whereas posts are placed in two columns with equal width such that advertisements are given in between.
+k)	 index-11.html - This page varies from the previous one in such a way that posts are given as a one whole column with no page references in between or to their sides.
+l)	index-12.html - This page has layout same as index.html
+23)	login.html - This page helps us to login to the website which is simply a login page.
+24)	messenger.html - A page specifically designed for the chat application to chat/message your friends or view their messages or to view your previous chats. The layout is given in such a way that messages to the left end and the selected chat at the middle and the respective profile of the selected member to the right end.
+25)	music.html - A page designed only for information related to music such as the timeline of our events attended, year-wise songs, favourite artists, playlists, popular songs and present playing songs.
+26)	page-list.html - A list of pages which includes top suggestions, creating our own pages, the pages we follow, the pages we’ve created in the past and their related notifications and invitations.
+27)	page-tab.html - When a respective page is selected from the previous page, the details regarding the previous page are displayed.
+28)	profile(friend).html - When you view your friend profile which displays all the information about them, their gallery, their recent posts and their friends.
+29)	profile.html - This page is displayed when we view our own profile.
+30)	profile-tab.html - This page is displayed when we view our own profile.
+31)	profile-about.html - This page is displayed when we want to look at someone's information in their profile which tells us about them, their hobbies and interests, their education details, their work experiences and friends of them.
+32)	profile-activityfeed.html - This page gives us the details about the recent activities done on the website.
+33)	profile-friends.html - This page gives the list of friends.
+34)	profile-gallery.html - This page displays the albums or pictures one has uploaded.
+35)	register.html - This is a registration page to be a part of the website.
+36)	settings.html - This page does the task of updating or changing your account information like your personal information, website notifications, security information etc.
+37)	sidebar widgets.html - This page displays the information of each sidebar column as blocks.
+38)	single-about.html - This page gives us information about them and their hobbies and interests.
+39)	single-gallery.html - This page displays all the albums or pictures one has uploaded.
+40)	single-page.html - When a respective page is selected from the previous page, the details regarding the previous page are displayed.
+41)	single-reviews.html - This page displays the reviews or recommendations given by our friends with stats and also gives a popup for us to recommend or review about the pages we’ve visited.
+42)	typography.html - This page displays various text formats.
+43)	weather.html - This page gives us the information about the weather forecast in detail of present location, the change in temperature from hour to hour in a day is also given and the weather or temperature of various locations can also be searched.
+44)	www.friendbook.html - This is an initial page or the website link. 
+(from the given folder, this is an incomplete or an error page.)
+
+
+TOOLS NEEDED TO DEVELOP THIS WEBSITE:
+The following are the tools that can be used to develop the website: (tools-1)
+1.	HTML - For the structure of a website.
+2.	CSS - For the styling of websites.
+3.	JavaScript - To program the website and add interactivity to it.
+4.	SQL - To store, manipulate and retrieve data in databases.
+5.	PHP - Generates dynamic page content; can open, read, write, delete files stored on the server, can collect from data and add, delete and modify data in the databases.
+The website can be developed using MERN Stack too which includes the following tools:
+1.	React.js :
+a.	The top tier of the MERN stack is React.js, the declarative JavaScript framework for creating dynamic client-side applications in HTML. 
+b.	React lets you build complex interfaces through simple Components, connect them to data on your backend server, and render them as HTML.
+2.	Express.js and Node.js :
+a.	The Express.js server-side framework, running inside a Node.js server.
+b.	By making XML HTTP Requests (XHRs) or GETs or POSTs from your React.js front-end, you can connect to Express.js functions that power your application. 
+c.	Those functions in turn use MongoDB’s Node.js drivers, either via callbacks for using Promises, to access and update data in your MongoDB database.
+3.	MongoDB :
+a.	JSON documents created in your React.js front end can be sent to the Express.js server, where they can be processed and stored directly in MongoDB for later retrieval. 
+b.	Again, if you’re building in the cloud, you’ll want to look at Atlas.
